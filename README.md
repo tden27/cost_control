@@ -1,2 +1,2 @@
-# cost_control
+# Cost control
 Control of expenses and income
