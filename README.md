@@ -1,2 +1,2 @@
-# Cost control
-Control of expenses and income
+# Spending control
+Control of spending and income of money
